@@ -1,5 +1,5 @@
-# Group 7 Project: Using Multiple Aggregation Functions with GraphSAGE
-## Original Author: William Leif
+# Using Multiple Aggregation Functions with GraphSAGE
+## Original Code Author: William Leif
 
 - Basic reference TensorFlow implementation of [GraphSAGE]
 (https://github.com/williamleif/GraphSAGE).
